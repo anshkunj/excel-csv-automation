@@ -45,7 +45,7 @@ excel-csv-automation/
 |  
 ├── sample_files/  
 |   ├── raw_data.csv  
-|   ├── cleaned_data.xlsx  
+|   ├── cleaned_data.csv  
 |   ├── report.xlsx  
 |   └── excel_inputs/  
 |       ├── sales_jan.xlsx  
