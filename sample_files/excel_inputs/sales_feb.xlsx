@@ -1,3 +1,10 @@
-product,quantity,revenue
-A,8,800
-C,4,500
+import pandas as pd
+
+data = {
+    "product": ["A", "C"],
+    "quantity": [800, 4],
+    "revenue": [4500, 500]
+}
+
+df = pd.DataFrame(data)
+df.to_excel("sales_feb.xlsx", index=False)
