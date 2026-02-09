@@ -7,4 +7,8 @@ data = {
 }
 
 df = pd.DataFrame(data)
-df.to_excel("sales_feb.xlsx", index=False)
+
+df.to_excel(
+    "sample_files/excel_inputs/sales_feb.xlsx",
+    index=False
+)
