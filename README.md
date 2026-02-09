@@ -31,8 +31,10 @@ formula automation, and report generation.
 ## Folder Structure
 ```
 excel-csv-automation/  
-│  
-├── README.md  
+│
+├── Licence             # Licence file (MIT)
+├── .gitignore          # Python  
+├── README.md           # Project Overview  
 ├── examples/  
 │   ├── csv_cleaning.py  
 │   ├── excel_merge.py  
