@@ -1,0 +1,4 @@
+name,email,amount,date
+Alice,alice@example.com,1200, 
+Bob,bob@example.com,900,2024-01-12
+Charlie,charlie@example.com, ,2024-01-15
