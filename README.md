@@ -79,6 +79,9 @@ custom Excel and CSV automation services I provide on Fiverr.
 If you are looking to automate your spreadsheet workflow or data processing tasks,
 these examples reflect the type of solutions I deliver.
 
+>These scripts are for demonstration purposes.
+Custom workflows may require adjustments based on specific requirements.
+
 ---
 
 ## 📄 Licence
@@ -110,6 +113,3 @@ It motivates me to build more real-world projects 🚀
 
 ## 🔹 Note
 This repository is regularly updated with new scripts and improvements.
-
->These scripts are for demonstration purposes.
-Custom workflows may require adjustments based on specific requirements.
