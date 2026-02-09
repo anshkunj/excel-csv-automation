@@ -1,4 +1,6 @@
-name,email,amount,date
-Alice,alice@example.com,1200, 
-Bob,bob@example.com,900,2024-01-12
-Charlie,charlie@example.com, ,2024-01-15
+Name,Email,Amount,Date
+John Doe,john.doe@example.com,150.00,2023-10-26
+Jane Smith,jane.smith@email.org,150.00,2023-10-26
+Jane Smith,peterj@web.net,2000.00,2023-10-27
+Peter Jones,susan.davis@corp.com,200.50,2023-10-28
+Michael Brown,michael.b@xyz.com,300.00,2023-10-30
