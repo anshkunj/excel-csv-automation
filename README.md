@@ -39,8 +39,9 @@ excel-csv-automation/
 │   └── report_generator.py  
 │  
 ├── workflows/  
-│   ├── automate_formulas.md  
-│   └── pivot_automation.md  
+│   ├── csv_cleaning_workflow.md  
+│   ├── excel_merge_workflow.md  
+│   └── reporting_workflow.md  
 |  
 ├── sample_files/  
 │   ├── raw_data.csv  
