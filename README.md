@@ -78,3 +78,38 @@ custom Excel and CSV automation services I provide on Fiverr.
 
 If you are looking to automate your spreadsheet workflow or data processing tasks,
 these examples reflect the type of solutions I deliver.
+
+---
+
+## 📄 Licence
+MIT Licence  
+
+---
+
+## 🤝 Contributing
+Contributors are welcome!  
+• Add new problems and algorithms  
+• Improve explanations  
+• Optimise exists code  
+
+---
+
+## 👤 Author
+**anshkunj**  
+GitHub: https://github.com/anshkunj  
+Fiverr: https://www.fiverr.com/s/xX9mNXB  
+LinkedIn: https://linkedin.com/in/anshkunj 
+
+---
+
+## ⭐ Support
+If you found this project helpful, give it a star ⭐  
+It motivates me to build more real-world projects 🚀
+
+---
+
+## 🔹 Note
+This repository is regularly updated with new scripts and improvements.
+
+>These scripts are for demonstration purposes.
+Custom workflows may require adjustments based on specific requirements.
