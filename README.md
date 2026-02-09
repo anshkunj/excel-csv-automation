@@ -44,8 +44,12 @@ excel-csv-automation/
 │   └── reporting_workflow.md  
 |  
 ├── sample_files/  
-│   ├── raw_data.csv  
-│   └── cleaned_data.xlsx  
+|   ├── raw_data.csv  
+|   ├── cleaned_data.xlsx  
+|   ├── report.xlsx  
+|   └── excel_inputs/  
+|       ├── sales_jan.xlsx  
+|       └── sales_feb.xlsx  
 │  
 ├── screenshots/  
 │   ├── before.png  
