@@ -1,3 +1,10 @@
+<p align="center">
+  <img src="https://github.com/anshkunj/Excel-csv-automation/blob/cfaabcd861c3995cfd09e70945a7fa4af5a19266/Excel-csv-automation.png" alt="Excel CSV Automation" width="1200">
+</p>
+
+<h1 align="center">Excel CSV Automation</h1>
+<p align="center">From messy CSVs to clean Excel — powered by Python automation 🐍📈</p>
+
 # Excel & CSV Automation Workflows
 
 This repository contains practical Excel and CSV automation workflows built using Python.
