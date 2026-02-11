@@ -30,7 +30,7 @@ formula automation, and report generation.
 
 ## Folder Structure
 ```
-excel-csv-automation/  
+Excel-csv-automation/  
 │
 ├── Licence             # Licence file (MIT)
 ├── .gitignore          # Python  
