@@ -35,7 +35,7 @@ formula automation, and report generation.
 
 ---
 
-## Folder Structure
+## Project Structure
 ```
 Excel-csv-automation/  
 │
