@@ -85,10 +85,10 @@ Excel-csv-automation/
 
 ---
 
-## Fiverr Context
+## Freelance Context
 
 This repository showcases sample automation workflows similar to the
-custom Excel and CSV automation services I provide on Fiverr.
+custom Excel and CSV automation services I provide on my Freelance Services.
 
 If you are looking to automate your spreadsheet workflow or data processing tasks,
 these examples reflect the type of solutions I deliver.
